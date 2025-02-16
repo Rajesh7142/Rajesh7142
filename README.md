@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png)
+
 
 # 👋 Hi, I'm Rajesh!
 
